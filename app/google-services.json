@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760871770221",
+    "firebase_url": "https://locationsharetutorial-a395d.firebaseio.com",
+    "project_id": "locationsharetutorial-a395d",
+    "storage_bucket": "locationsharetutorial-a395d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760871770221:android:25cb20debcb09706444764",
+        "android_client_info": {
+          "package_name": "com.example.subosh.locationsharetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760871770221-03vqmnjuraf7ffjvrnhrsfsl3i3pq4ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subosh.locationsharetutorial",
+            "certificate_hash": "009ff092f9671b88ec5f180fac291f338cab8075"
+          }
+        },
+        {
+          "client_id": "760871770221-5i9m4ljaj92su5hqd7klrg58rpaah897.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaOGGaMhAPrH6WOCwLLVkcffSM0pgC2Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760871770221-5i9m4ljaj92su5hqd7klrg58rpaah897.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
